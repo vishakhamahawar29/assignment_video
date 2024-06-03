@@ -14,4 +14,6 @@ Change Index to video-voice-signaling* create a "Discover URL" that displays Par
 Create a "Discover URL" that displays all the Network Quality scores for all participants in one of your group rooms. Add shareable short URL for Kibana Link to Document and take a screenshot of using Kibana and add to GitHub Document.: https://kibana.us1.eak.twilio.com/video/goto/501c164f2a9c67588c32e442d4d91886
 ![5](Kibana_5.png)
 
+Using a SQL Query, find your API Request for the compositions you created. Add SQL Query and a shareable link to Google spreadsheet with the results from Quantico to a GitHub Document.: https://console.cloud.google.com/bigquery?sq=359385078535:20a951538f5e40c4acc797286cf30505
+![5](query.png)
 
